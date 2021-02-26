@@ -28,6 +28,9 @@ ul{
     display: flex;
     flex-wrap: wrap;
 }
+ul.modif{
+    list-style: none;
+}
 li{
     list-style: none;
     padding: 5px;
