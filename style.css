@@ -29,6 +29,9 @@ ul{
     flex-wrap: wrap;
     list-style: none;
 }
+ul.modif{
+    list-style: none;
+}
 li{
     list-style: none;
     padding: 5px;
