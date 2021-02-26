@@ -16,3 +16,6 @@ li{
     list-style: none;
     padding: 5px;
 }
+p{
+    margin: 5px 0;
+}
