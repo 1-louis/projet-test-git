@@ -47,13 +47,13 @@ p{
 
 /*footer*/
 footer{
-    margin: 0 auto;
     bottom: 0;
-    padding: 0;
     position: fixed;
     background: #777;
     width: 100%;
 }
 form{
     float: right;
+    margin: 5px;
+
 }
